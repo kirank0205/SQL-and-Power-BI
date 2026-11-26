@@ -1,0 +1,32 @@
+-- Create this calculated table and mark it as the Date table.
+Date =
+ADDCOLUMNS(
+ CALENDAR(MIN(Sales[OrderDate]),MAX(Sales[OrderDate])),
+ "Year",YEAR([Date]),
+ "Month Number",MONTH([Date]),
+ "Month",FORMAT([Date],"MMM"),
+ "Year Month",FORMAT([Date],"YYYY-MM")
+)
+
+Revenue =
+CALCULATE(
+ SUMX(Sales,Sales[Quantity]*Sales[UnitPrice]),
+ Sales[OrderStatus]="Completed"
+)
+
+Cost =
+CALCULATE(
+ SUMX(Sales,Sales[Quantity]*Sales[UnitCost]),
+ Sales[OrderStatus]="Completed"
+)
+
+Gross Profit = [Revenue]-[Cost]
+Gross Margin % = DIVIDE([Gross Profit],[Revenue],0)
+Orders = CALCULATE(DISTINCTCOUNT(Sales[OrderID]),Sales[OrderStatus]="Completed")
+Units Sold = CALCULATE(SUM(Sales[Quantity]),Sales[OrderStatus]="Completed")
+Average Order Value = DIVIDE([Revenue],[Orders],0)
+Revenue Previous Month = CALCULATE([Revenue],DATEADD('Date'[Date],-1,MONTH))
+Revenue MoM Change = [Revenue]-[Revenue Previous Month]
+Revenue MoM % = DIVIDE([Revenue MoM Change],[Revenue Previous Month],0)
+Revenue YTD = TOTALYTD([Revenue],'Date'[Date])
+Product Revenue Rank = RANKX(ALL(Sales[Product]),[Revenue],,DESC,DENSE)
