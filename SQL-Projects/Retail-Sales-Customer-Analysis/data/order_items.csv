@@ -1,0 +1,31 @@
+order_item_id,order_id,product_id,product_name,category,quantity,unit_price,unit_cost
+I001,O1001,P01,Wireless Mouse,Accessories,2,799,420
+I002,O1001,P04,USB-C Hub,Accessories,1,1899,1100
+I003,O1002,P02,Mechanical Keyboard,Accessories,1,2499,1550
+I004,O1003,P03,27-inch Monitor,Electronics,1,14999,11200
+I005,O1004,P05,Office Chair,Furniture,1,8999,6200
+I006,O1005,P06,Notebook Set,Stationery,3,399,180
+I007,O1006,P07,Desk Lamp,Home,2,1299,720
+I008,O1007,P01,Wireless Mouse,Accessories,1,799,420
+I009,O1008,P08,Webcam,Electronics,1,3299,2300
+I010,O1009,P02,Mechanical Keyboard,Accessories,2,2499,1550
+I011,O1010,P09,Laptop Stand,Accessories,1,1599,850
+I012,O1011,P03,27-inch Monitor,Electronics,1,14999,11200
+I013,O1013,P06,Notebook Set,Stationery,2,399,180
+I014,O1014,P10,Ergonomic Desk,Furniture,1,12499,8900
+I015,O1015,P07,Desk Lamp,Home,1,1299,720
+I016,O1016,P05,Office Chair,Furniture,1,8999,6200
+I017,O1017,P04,USB-C Hub,Accessories,2,1899,1100
+I018,O1018,P08,Webcam,Electronics,1,3299,2300
+I019,O1019,P01,Wireless Mouse,Accessories,3,799,420
+I020,O1020,P09,Laptop Stand,Accessories,2,1599,850
+I021,O1021,P03,27-inch Monitor,Electronics,1,14999,11200
+I022,O1022,P06,Notebook Set,Stationery,4,399,180
+I023,O1023,P07,Desk Lamp,Home,2,1299,720
+I024,O1024,P10,Ergonomic Desk,Furniture,1,12499,8900
+I025,O1025,P02,Mechanical Keyboard,Accessories,1,2499,1550
+I026,O1026,P05,Office Chair,Furniture,1,8999,6200
+I027,O1027,P04,USB-C Hub,Accessories,1,1899,1100
+I028,O1028,P08,Webcam,Electronics,2,3299,2300
+I029,O1029,P03,27-inch Monitor,Electronics,1,14999,11200
+I030,O1030,P01,Wireless Mouse,Accessories,2,799,420
