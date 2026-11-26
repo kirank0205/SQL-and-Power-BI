@@ -1,0 +1,21 @@
+customer_id,customer_name,city,region,signup_date,acquisition_channel
+C001,Aarav Sharma,Hyderabad,South,2024-01-12,Organic
+C002,Diya Reddy,Vijayawada,South,2024-02-03,Referral
+C003,Arjun Mehta,Mumbai,West,2024-02-18,Paid Search
+C004,Ananya Iyer,Chennai,South,2024-03-05,Organic
+C005,Kabir Singh,Delhi,North,2024-03-22,Social
+C006,Meera Nair,Kochi,South,2024-04-11,Referral
+C007,Rohan Gupta,Pune,West,2024-04-29,Paid Search
+C008,Sara Khan,Hyderabad,South,2024-05-14,Social
+C009,Vihaan Patel,Ahmedabad,West,2024-06-01,Organic
+C010,Ishita Rao,Bengaluru,South,2024-06-19,Referral
+C011,Dev Malhotra,Jaipur,North,2024-07-02,Paid Search
+C012,Anika Das,Kolkata,East,2024-07-20,Social
+C013,Reyansh Joshi,Nagpur,Central,2024-08-08,Organic
+C014,Myra Thomas,Thiruvananthapuram,South,2024-08-26,Referral
+C015,Aditya Verma,Lucknow,North,2024-09-13,Social
+C016,Tara Kapoor,Indore,Central,2024-10-04,Paid Search
+C017,Neil Fernandes,Goa,West,2024-10-21,Organic
+C018,Prisha Menon,Hyderabad,South,2024-11-09,Referral
+C019,Krish Bhat,Mysuru,South,2024-11-28,Social
+C020,Kiara Roy,Bhubaneswar,East,2024-12-15,Organic
