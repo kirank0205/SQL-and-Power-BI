@@ -1,0 +1,35 @@
+OrderID,OrderDate,Region,SalesChannel,Category,Product,CustomerSegment,Quantity,UnitPrice,UnitCost,OrderStatus
+S2001,2025-01-05,South,Online,Accessories,Wireless Mouse,Consumer,2,799,420,Completed
+S2002,2025-01-08,South,Retail,Accessories,Mechanical Keyboard,Corporate,1,2499,1550,Completed
+S2003,2025-01-12,West,Online,Electronics,27-inch Monitor,Corporate,1,14999,11200,Completed
+S2004,2025-01-19,South,Retail,Furniture,Office Chair,Consumer,1,8999,6200,Completed
+S2005,2025-02-02,North,Online,Stationery,Notebook Set,Consumer,3,399,180,Completed
+S2006,2025-02-10,South,Online,Home,Desk Lamp,Small Business,2,1299,720,Completed
+S2007,2025-02-14,West,Retail,Accessories,Wireless Mouse,Consumer,1,799,420,Completed
+S2008,2025-02-22,South,Online,Electronics,Webcam,Small Business,1,3299,2300,Completed
+S2009,2025-03-03,West,Retail,Accessories,Mechanical Keyboard,Corporate,2,2499,1550,Completed
+S2010,2025-03-09,South,Online,Accessories,Laptop Stand,Consumer,1,1599,850,Completed
+S2011,2025-03-17,South,Online,Electronics,27-inch Monitor,Corporate,1,14999,11200,Completed
+S2012,2025-03-25,North,Retail,Accessories,USB-C Hub,Consumer,2,1899,1100,Cancelled
+S2013,2025-04-04,East,Online,Stationery,Notebook Set,Consumer,2,399,180,Completed
+S2014,2025-04-11,Central,Retail,Furniture,Ergonomic Desk,Corporate,1,12499,8900,Completed
+S2015,2025-04-18,South,Online,Home,Desk Lamp,Consumer,1,1299,720,Completed
+S2016,2025-05-02,North,Online,Furniture,Office Chair,Small Business,1,8999,6200,Completed
+S2017,2025-05-10,South,Retail,Accessories,USB-C Hub,Consumer,2,1899,1100,Completed
+S2018,2025-05-21,Central,Online,Electronics,Webcam,Small Business,1,3299,2300,Completed
+S2019,2025-06-01,West,Retail,Accessories,Wireless Mouse,Consumer,3,799,420,Completed
+S2020,2025-06-13,South,Online,Accessories,Laptop Stand,Corporate,2,1599,850,Completed
+S2021,2025-06-24,West,Online,Electronics,27-inch Monitor,Corporate,1,14999,11200,Completed
+S2022,2025-07-06,South,Retail,Stationery,Notebook Set,Consumer,4,399,180,Completed
+S2023,2025-07-15,East,Online,Home,Desk Lamp,Consumer,2,1299,720,Completed
+S2024,2025-07-29,South,Online,Furniture,Ergonomic Desk,Corporate,1,12499,8900,Completed
+S2025,2025-08-08,North,Retail,Accessories,Mechanical Keyboard,Consumer,1,2499,1550,Completed
+S2026,2025-08-19,South,Online,Furniture,Office Chair,Small Business,1,8999,6200,Completed
+S2027,2025-09-02,West,Online,Accessories,USB-C Hub,Corporate,1,1899,1100,Completed
+S2028,2025-09-14,South,Retail,Electronics,Webcam,Consumer,2,3299,2300,Completed
+S2029,2025-10-01,West,Online,Electronics,27-inch Monitor,Corporate,1,14999,11200,Completed
+S2030,2025-10-17,South,Online,Accessories,Wireless Mouse,Consumer,2,799,420,Completed
+S2031,2025-11-03,East,Retail,Stationery,Notebook Set,Consumer,5,399,180,Completed
+S2032,2025-11-18,North,Online,Furniture,Office Chair,Corporate,1,8999,6200,Completed
+S2033,2025-12-02,South,Online,Electronics,Webcam,Small Business,2,3299,2300,Completed
+S2034,2025-12-19,West,Retail,Accessories,Mechanical Keyboard,Consumer,1,2499,1550,Completed
